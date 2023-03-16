@@ -664,10 +664,6 @@ h3 {
     padding-bottom: 2.5rem;
   }
 
-  .md\:pt-5 {
-    padding-top: 1.25rem;
-  }
-
   .md\:pt-10 {
     padding-top: 2.5rem;
   }
@@ -691,6 +687,10 @@ h3 {
     margin-top: 6rem;
   }
 
+  .lg\:w-72 {
+    width: 18rem;
+  }
+
   .lg\:w-\[400px\] {
     width: 400px;
   }
@@ -701,18 +701,6 @@ h3 {
 
   .lg\:w-auto {
     width: auto;
-  }
-
-  .lg\:w-6 {
-    width: 1.5rem;
-  }
-
-  .lg\:w-64 {
-    width: 16rem;
-  }
-
-  .lg\:w-72 {
-    width: 18rem;
   }
 
   .lg\:p-5 {
